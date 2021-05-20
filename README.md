@@ -1,3 +1,3 @@
-# London_housing_project
+# Springboard Data Science Projects
 
-This project looks at identifying the London boroughs that have had the largest increase in housing prices over the last two decades.
+This is a collection of projects done through the Springboard curriculum
