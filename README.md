@@ -1,3 +1,2 @@
-# Springboard Data Science Projects
+# London Housting Project - Springboard Data Science
 
-This is a collection of projects done through the Springboard curriculum
